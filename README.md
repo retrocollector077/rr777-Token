@@ -1,6 +1,6 @@
 # rr777-Token
 rr777 is a rare 5-byte BRC-20 token on Bitcoin, symbolizing digital sovereignty and elite ownership. Vault-certified under Certificate #007. Floor price: $0.0008207. Listed on Unisat at 0.00777 BTC per 1M. Sole holder controlled. Perfect for DAO, governance, or collector-grade anchoring.
-# rr777 – Sovereign BRC-20 Token on Bitcoin
+# rr777 – BRC-20 Token on Bitcoin
 
 **rr777** is a rare 5-byte BRC-20 token deployed on Bitcoin. It represents elite ownership, digital sovereignty, and verified vault-tier control.
 
